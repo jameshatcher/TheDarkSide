@@ -1,0 +1,21 @@
+Connection Settings for james@OrhGrowth.com
+
+Manual Settings
+Secure SSL/TLS Settings
+(Recommended)
+Username:	james@orggrowth.com
+Password:	powDe3o#
+Incoming Server:	gator4155.hostgator.com
+•	IMAP Port: 993
+•	POP3 Port: 995
+Outgoing Server:	gator4155.hostgator.com
+•	SMTP Port: 465
+Authentication is required for 
+ 
+Enable Shared Contacts
+
+Enable Shared Calendars
+
+Now don't be too fussed about these settings... Check out the 2 configurators I made just for you.. Should make your life that little tiny but easier.
+
+Now I took this prject out of Master and moved it into Alpha... This is a new document, but it's part of the project which is why i need to commit this file into the alpha. See the note.
